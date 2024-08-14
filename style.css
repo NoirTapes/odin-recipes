@@ -1,1 +1,13 @@
-start this
+h1{
+  font-size: 120px;
+  font-family: Verdana, sans-serif; 
+  text-align: center; 
+  background-color: #007F60;
+  color: white;
+}
+
+.GenericList{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
